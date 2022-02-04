@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lavonus/lavonchick/issues"
   },
-  "homepage": "https://github.com/lavonus/lavonchick#readme"
+  "homepage": "https://github.com/lavonus/lavonchick#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
